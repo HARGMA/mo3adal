@@ -1,0 +1,13 @@
+body{
+	background-image: url("gradient-navy-blue-digital-grid-wallpaper_53876-104785.jpg");
+    text-align:center;
+    font-family:arial;
+    text-color:white;
+}
+table{
+    margin:0 auto 0 auto;
+    border-color:black;
+}
+td,th,h1,p{
+    color:white;
+} 
